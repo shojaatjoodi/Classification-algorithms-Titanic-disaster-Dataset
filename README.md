@@ -1,2 +1,2 @@
-# Classification-algorithms--Titanic-disaster-Dataset
-Implementation of Classification algorithms of Supervised Learning for Titanic disaster Dataset
+# Classification algorithm for Titanic disaster dataset
+Implementation of Classification algorithms of Supervised Learning for Titanic disaster dataset
